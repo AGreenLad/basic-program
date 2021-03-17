@@ -1,0 +1,16 @@
+C:\Users\alazi\Desktop\Folder\bin\Debug\net5.0\Folder.exe
+C:\Users\alazi\Desktop\Folder\bin\Debug\net5.0\Folder.deps.json
+C:\Users\alazi\Desktop\Folder\bin\Debug\net5.0\Folder.runtimeconfig.json
+C:\Users\alazi\Desktop\Folder\bin\Debug\net5.0\Folder.runtimeconfig.dev.json
+C:\Users\alazi\Desktop\Folder\bin\Debug\net5.0\Folder.dll
+C:\Users\alazi\Desktop\Folder\bin\Debug\net5.0\ref\Folder.dll
+C:\Users\alazi\Desktop\Folder\bin\Debug\net5.0\Folder.pdb
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\Folder.csprojAssemblyReference.cache
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\Folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\Folder.AssemblyInfoInputs.cache
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\Folder.AssemblyInfo.cs
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\Folder.csproj.CoreCompileInputs.cache
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\Folder.dll
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\ref\Folder.dll
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\Folder.pdb
+C:\Users\alazi\Desktop\Folder\obj\Debug\net5.0\Folder.genruntimeconfig.cache
